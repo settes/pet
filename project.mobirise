@@ -58,7 +58,7 @@
         "main": true,
         "title": "Health for Pet",
         "meta_descr": "",
-        "header_custom": "<script src=\"https://code.jquery.com/jquery-latest.min.js\"></script>\n\n<script>\n bot_id = '231';\n bot_token = 'healthpet01';\n bot_icon = 'https://files.in.bot/upload/231/AvatarHealthPet139pxV2.png';\n bot_server_type = 'production';\n</script>\n<script id='chatscript' src=\"https://in.bot/api/inbot.js\" async></script>",
+        "header_custom": "<script src=\"https://code.jquery.com/jquery-latest.min.js\"></script>\n\n<script>\n bot_id = '231';\n bot_token = 'healthpet01';\n bot_icon = 'https://files.in.bot/upload/231/AvatarHealthPet139pxV3.png';\n bot_server_type = 'production';\n</script>\n<script id='chatscript' src=\"https://in.bot/api/inbot.js\" async></script>",
         "footer_custom": "",
         "html_before": ""
       },
