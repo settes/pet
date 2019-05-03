@@ -1938,6 +1938,9 @@ body {
 .cid-rnjMYbFtmt .card-title B {
   color: #ffffff;
 }
+.cid-rnjMYbFtmt br {
+  display: none;
+}
 .cid-rnk0wSySHg {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1994,6 +1997,9 @@ body {
   text-align: center;
   color: #4ec1ea;
 }
+.cid-rnk2k28MGa br {
+  display: none;
+}
 .cid-rnk6ZlBkn3 {
   padding-top: 0px;
   padding-bottom: 90px;
@@ -2038,6 +2044,9 @@ body {
 .cid-rnk6ZlBkn3 .card-title {
   text-align: center;
   color: #4ec1ea;
+}
+.cid-rnk6ZlBkn3 br {
+  display: none;
 }
 .cid-rnjfERhQ5c {
   padding-top: 60px;

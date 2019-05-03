@@ -717,6 +717,9 @@
             },
             ".card-title B": {
               "color": "#ffffff"
+            },
+            "br": {
+              "display": "none"
             }
           },
           "_name": "features3",
@@ -816,6 +819,9 @@
             ".card-title": {
               "text-align": "center",
               "color": "#4ec1ea"
+            },
+            "br": {
+              "display": "none"
             }
           },
           "_name": "features3",
@@ -889,6 +895,9 @@
             ".card-title": {
               "text-align": "center",
               "color": "#4ec1ea"
+            },
+            "br": {
+              "display": "none"
             }
           },
           "_name": "features3",
